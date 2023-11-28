@@ -1,1 +1,1 @@
-prinf('Hello I am from Python')
+print('Hello I am from Python')
